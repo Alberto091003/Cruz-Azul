@@ -1,0 +1,170 @@
+/*Ajustes generales*/
+body{
+    background-color: #01295F;
+    color: #948392;
+}
+
+p{
+    font-family: cursive;
+    text-align: justify;
+}
+
+span{
+    color: #A31621;
+}
+/*Aqui terminan los ajustes generales*/
+
+/*Ajuste de imagenes*/
+#img1-1{
+    display: block;
+    margin: auto;
+    width: 10%;
+}
+
+.i1{
+    margin: auto;
+    width: 5%;
+}
+
+#img1-2{
+    display: block;
+    margin: auto;
+    width: 40%;
+    border: 5px solid #A31621;
+}
+
+#img1-3{
+    display: block;
+    margin: auto;
+    width: 40%;
+    border: 5px solid #D19C1D;
+}
+
+#img2-1{
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: 5px solid #A31621;
+}
+
+#img2-2{
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: 5px solid #9BE564;
+}
+
+#img2-3{
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: 5px solid #A31621;
+}
+
+#img2-4{
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: 5px solid #948392;
+}
+
+#img2-5{
+    display: block;
+    margin: auto;
+    width: 40%;
+    border: 5px solid #D19C1D;
+}
+
+#img3-1{
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: 5px solid #D19C1D;
+}
+
+#img3-2{
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: 5px solid #A31621;
+}
+
+#img3-3{
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: 5px solid #9BE564;
+}
+
+#img3-4{
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: 5px solid #948392;
+}
+/*Aqui termina el ajuste de imagenes*/
+
+/*Titulos*/
+#I{
+    text-align: center;
+    color: #C2AFF0;
+    font-family: Arial;
+}
+
+#T{
+    text-align: center;
+    color: #D19C1D;
+    font-family: Arial;
+}
+
+#D{
+    text-align: center;
+    color: #A31621;
+    font-family: Arial;
+}
+/*Aqui terminan los titulos*/
+
+ol{
+    list-style: decimal;
+}
+
+.p1{
+    text-align: left;
+}
+
+/*Aqui esta el acomodo de los hipervinculos/links*/
+.Index{
+text-align: left;
+font-family: Arial;
+}
+
+.Index2{
+    color: #C2AFF0;
+    text-decoration: none;
+}
+
+.Trofeos{
+    text-align: left;
+    font-family: Arial;
+}
+
+.Trofeosr{
+    text-align: left;
+    font-family: Arial;
+}
+
+.Trofeos2{
+    color: #D19C1D;
+    text-decoration: none;
+}
+
+.Derrota{
+    text-align: left;
+    font-family: Arial;
+}
+
+.Derrota2{
+    color: #A31621;
+    text-decoration: none;
+}
+/*Aqui acaba xd*/
